@@ -135,10 +135,8 @@ O projeto está organizado da seguinte forma:
 
 ## Contato e Licença
 
-*   **Autor:** [Seu Nome ou Usuário GitHub]
-*   **Contato:** [Seu Email ou Link do LinkedIn (opcional)]
-*   **Licença:** [Escolha uma licença, ex: MIT, Apache 2.0, ou deixe em branco se não aplicável]
+*   **Autor:** Fabio Gomes
+*   **Contato:** fabio13vb@gmail.com
 
 ---
 
-*Este README foi gerado e estruturado com auxílio de IA para garantir clareza e profissionalismo.*
